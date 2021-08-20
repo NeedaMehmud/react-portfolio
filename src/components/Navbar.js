@@ -1,4 +1,5 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
+import resume from "../Needa_Resume.pdf";
 import React from "react";
 
 export default function Navbar() {
@@ -18,7 +19,7 @@ export default function Navbar() {
                         Skills
           </a>
 
-                    <a href="Needa_Resume.pdf" className="mr-5 hover:text-white">
+                    <a href={resume} className="mr-5 hover:text-white">
                         Resume
           </a>
                 </nav>
