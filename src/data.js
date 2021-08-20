@@ -29,7 +29,7 @@ export const projects = [
     description:
       "A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
     image: "./images/weather-dashboard.jpg",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/NeedaMehmud2017/weather-dashboard",
   },
   {
     title: "Fido Friendly",
@@ -37,7 +37,15 @@ export const projects = [
     description:
       "The website uses OMDB and Does the Dog Die APIs to provide the information in a user friendly way.",
     image: "./images/fido.jpg",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/NeedaMehmud2017/fido-friendly",
+  },
+  {
+    title: "Revised Portfolio",
+    subtitle: "Bootstrap CSS HTML and JavaScript",
+    description:
+      "This is a revised portfolio using Bootstrap, CSS, HTML and JavaScript. The original portfolio was created using CSS and HTML. ",
+    image: "./images/revised-portfolio.jpg",
+    link: "https://github.com/NeedaMehmud2017/revised-portfolio/",
   },
 ];
 
