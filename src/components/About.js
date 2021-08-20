@@ -27,14 +27,15 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="lg:max-w-sm lg:w-full md:w-1/2 w-4/6">
           <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./coding.svg"
+            className="rounded-full border border-gray-100 shadow-sm"
+            alt="Technology vector created by stories - www.freepik.com"
+            src="./coding.jpg"
           />
         </div>
       </div>
     </section>
   );
 }
+
