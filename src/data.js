@@ -58,7 +58,4 @@ export const skills = [
   "Material UI",
 ];
 
-export const resume = [{
-  link: "https://github.com/NeedaMehmud2017/revised-portfolio/",
-}
-]
+
