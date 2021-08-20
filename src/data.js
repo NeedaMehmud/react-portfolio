@@ -1,34 +1,42 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Advanced CSS Portfolio",
+    subtitle: "CSS HTML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://needamehmud2017.github.io/javascript-password-generator/",
+      "Portfolio created with CSS and HTML. All button are functional with sticky nav-bar and footer with mini projects on Github.",
+    image: "./images/html-css-javascript.jpg",
+    link: "https://github.com/NeedaMehmud2017/advanced-css-portfolio",
   },
   {
     title: "Password Generator",
     subtitle: "Javascript CSS HTML",
     description:
-      "Application that enables employees to generate random passwords based on criteria that they’ve selected",
-    image: "./password-generator.png",
+      "Application that enables employees to generate random passwords based on criteria that they’ve selected.",
+    image: "./images/password-generator.jpg",
     link: "https://needamehmud2017.github.io/javascript-password-generator/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Work Day Scheduler",
+    subtitle: "JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "A simple calendar application that allows a user to save events for each hour of the day by modifying starter code.",
+    image: "./images/schedule.jpg",
+    link: "https://github.com/NeedaMehmud2017/work-day-scheduler",
+  },
+  {
+    title: "Weather Dashboard",
+    subtitle: "HTML CSS",
+    description:
+      "A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
+    image: "./images/weather-dashboard.jpg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Fido Friendly",
+    subtitle: "Api Javascript Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "The website uses OMDB and Does the Dog Die APIs to provide the information in a user friendly way.",
+    image: "./images/fido.jpg",
     link: "https://reactbootcamp.com",
   },
 ];
