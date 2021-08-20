@@ -40,12 +40,11 @@ export default function Contact() {
                         src="https://maps.google.com/maps?q=atlanta,%20ga&t=&z=13&ie=UTF8&iwloc=&output=embed&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                     />
                     <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-                        <div className="lg:w-1/2 px-6">
+                        <div className="lg:w-1/2 px-12">
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 ADDRESS
               </h2>
                             <p className="mt-1">
-                                 <br />
                 Atlanta Georgia
               </p>
                         </div>
@@ -53,7 +52,7 @@ export default function Contact() {
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 EMAIL
               </h2>
-                            <a className="text-indigo-500 leading-relaxed">
+                            <a className="text-indigo-500  leading-relaxed">
                                 mehmudneeda@gmail.com  
               </a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
