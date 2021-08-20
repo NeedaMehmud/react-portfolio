@@ -5,15 +5,15 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://needamehmud2017.github.io/javascript-password-generator/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Password Generator",
+    subtitle: "Javascript CSS HTML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Application that enables employees to generate random passwords based on criteria that they’ve selected",
+    image: "./password-generator.png",
+    link: "https://needamehmud2017.github.io/javascript-password-generator/",
   },
   {
     title: "DevChat",
