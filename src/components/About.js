@@ -11,9 +11,8 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Detail-oriented professional with 1.5+ years of experience and a proven knowledge of application development, 
+            software testing, webdesign, and programming.
           </p>
           <div className="flex justify-center">
             <a
@@ -24,7 +23,7 @@ export default function About() {
             <a
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
+              Projects
             </a>
           </div>
         </div>
