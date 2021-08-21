@@ -4,7 +4,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import SocialFollow from "./SocialFollow"
+import SocialFollow from "./components/SocialFollow"
 
 export default function App() {
   return (
