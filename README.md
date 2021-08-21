@@ -1,6 +1,6 @@
 # react-portfolio
 
-Updated portfolio using React and Tailwind
+Updated portfolio using React, Tailwind, and Fort-Awesome
 
 ## User Story
 
