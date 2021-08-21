@@ -2,6 +2,14 @@
 
 Updated portfolio using React, Tailwind, and Fort-Awesome
 
+## Step to run the build locally if Heroku and Github links fail
+
+1. clone repo
+2. run `npm install`
+3. run `npm run build`
+4. run `npm run start`
+
+
 ## User Story
 
 ```md
