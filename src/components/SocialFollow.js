@@ -1,4 +1,5 @@
 import React from "react";
+import { AppCss } from "../App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
     faGithub,
@@ -8,8 +9,8 @@ import {
 
 export default function SocialFollow() {
     return (
-        <div class="social-container">
-            <h3>Social Follow</h3>
+        <div className="bg-gray flex-wrap md:mb-0">
+                    <br></br>
             <a href="https://www.github.com/NeedaMehmud2017/"
                 className="github social">
                 <FontAwesomeIcon icon={faGithub} size="2x" />
