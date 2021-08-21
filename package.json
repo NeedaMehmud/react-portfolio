@@ -17,9 +17,11 @@
     "react-scripts": "^1.1.5"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm run build",
-    "test": "npm test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
