@@ -1,4 +1,3 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
 import resume from "../Needa_Resume.pdf";
 import React from "react";
 
